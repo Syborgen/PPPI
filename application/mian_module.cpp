@@ -10,3 +10,6 @@ void updateNote(){
 	
 }
 
+Note findNote(string word){
+	
+}
