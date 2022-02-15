@@ -6,5 +6,7 @@ void deleteNote(){
 
 }
 
-
+void updateNote(){
+	
+}
 
