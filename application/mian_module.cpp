@@ -1,3 +1,8 @@
+Note{
+	int noteId;
+	string text;	
+};
+
 void addNote(){
 	
 }
