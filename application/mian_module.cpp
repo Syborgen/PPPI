@@ -1,0 +1,10 @@
+void addNote(){
+	
+}
+
+void deleteNote(){
+
+}
+
+
+
