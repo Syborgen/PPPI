@@ -8,6 +8,22 @@ class DB {
 		// Constructor
 	}
 	
+	~DB() {
+		// Destructor
+	}
+	
+	addNote(){
+		//
+	}
+	
+	deleteNote(){
+		//
+	}
+	
+	modifyNote(){
+		//
+	}
+	
 	
 	
 	
