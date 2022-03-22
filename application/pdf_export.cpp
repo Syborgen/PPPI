@@ -10,3 +10,7 @@ void createPDF(){
 void savePDF(){
 	
 }
+
+void loadPDF(){
+	
+}
