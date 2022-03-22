@@ -9,3 +9,7 @@ void createWord(){
 void saveWord(){
 	
 }
+
+void loadWord(){
+	
+}
