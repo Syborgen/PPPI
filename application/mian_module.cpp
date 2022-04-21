@@ -1,20 +1,20 @@
-Note{
+struct Note {
 	int noteId;
 	string text;	
 };
 
-void addNote(){
+void addNote() {
 	
 }
 
-void deleteNote(){
+void deleteNote() {
 
 }
 
-void updateNote(){
+void updateNote() {
 	
 }
 
-Note findNote(string word){
+Note findNote(string word) {
 	
 }
