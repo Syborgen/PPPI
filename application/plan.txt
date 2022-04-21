@@ -1,0 +1,5 @@
+Tasks: 
+1. Change main.cpp
+2. Test main.cpp
+3. Commit changes
+4. Release changes
