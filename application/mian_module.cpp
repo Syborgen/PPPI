@@ -1,6 +1,8 @@
+#include <string>
+
 struct Note {
 	int noteId;
-	string text;	
+	std::string text;
 };
 
 void AddNote() {
