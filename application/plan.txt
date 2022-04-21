@@ -3,3 +3,4 @@ Tasks:
 2. Test main.cpp
 3. Commit changes
 4. Release changes
+5. Change code style
