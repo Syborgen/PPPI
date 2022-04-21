@@ -3,18 +3,18 @@ struct Note {
 	string text;	
 };
 
-void addNote() {
+void AddNote() {
 	
 }
 
-void deleteNote() {
+void DeleteNote() {
 
 }
 
-void updateNote() {
+void UpdateNote() {
 	
 }
 
-Note findNote(string word) {
+Note FindNote(string word) {
 	
 }
